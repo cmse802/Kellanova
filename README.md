@@ -5,11 +5,9 @@ To begin with some context, Kellanova is an international company based out of C
 
 Our major question within this project is whether there are any trends within the data set, and if so, can this be predicted using a model? To take it a step further, there is the possibility of creating a geographic information system (GIS) to model this data. This involves mapping the financial and customer information provided, and creating a model that incorporates the location of the store in question. This is a much more complicated and advanced model than the initial iteration will be and is definitely phase two of the project. Our initial phase one will be to break down the data, clean the associated data sets and then analyze and model it. These models and analytical tools have yet to be determined but will be clarified and more readily understood as the project progresses and meetings occur.  
 
-Project Plan Presentation Video:
-https://michiganstate.sharepoint.com/:v:/r/sites/Section_SS24-CMSE-495-001-224214134-EL-32-A26-Kellanova/Shared%20Documents/Kellanova/Recordings_for_Project_Video/CMSE%20495%20Project%20Video%201.mp4?csf=1&web=1&e=d6mwkV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[Project Plan Presentation Video](https://michiganstate.sharepoint.com/:v:/r/sites/Section_SS24-CMSE-495-001-224214134-EL-32-A26-Kellanova/Shared%20Documents/Kellanova/Recordings_for_Project_Video/CMSE%20495%20Project%20Video%201.mp4?csf=1&web=1&e=d6mwkV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-Minimum Viable Product Video:
-https://michiganstate.sharepoint.com/:v:/s/Section_SS24-CMSE-495-001-224214134-EL-32-A26-Kellanova/EQzO7keJgUVMgv4zXSB0bNIBT8WlI54UY0pjXVSwsurjZQ?email=keith.wikle%40kellanova.com
+[Minimum Viable Product Video](https://michiganstate.sharepoint.com/:v:/s/Section_SS24-CMSE-495-001-224214134-EL-32-A26-Kellanova/EQzO7keJgUVMgv4zXSB0bNIBT8WlI54UY0pjXVSwsurjZQ?email=keith.wikle%40kellanova.com)
 
 Figure Instruction File: The Figure Instruction File is located in the main branch of the repository under the name Figure_Instruction_File.ipynb
